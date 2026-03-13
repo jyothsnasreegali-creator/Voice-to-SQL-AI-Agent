@@ -1,0 +1,12 @@
+# Ignore Python environment and cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignore React dependencies and builds
+node_modules/
+build/
+.env
+
+# Ignore local database (optional, keep if you want demo data included)
+# sales.db
