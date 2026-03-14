@@ -3,7 +3,7 @@
 An AI-native application that allows users to interact with a SQLite database using natural language and voice commands. 
 
 ## 📺 Demo
-[watch the video here](demo.mp4)
+[watch the video here](https://github.com/jyothsnasreegali-creator/Voice-to-SQL-AI-Agent/issues/2)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js (Web Speech API for STT/TTS)
